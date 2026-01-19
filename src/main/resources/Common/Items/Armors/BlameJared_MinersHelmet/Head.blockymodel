@@ -143,7 +143,7 @@
                 {
                   "id": "5",
                   "name": "Outer",
-                  "position": {"x": 3.12132, "y": -5.79288, "z": -7.5},
+                  "position": {"x": 1.5, "y": -5.79288, "z": -7.5},
                   "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                   "shape": {
                     "type": "none",
@@ -161,7 +161,7 @@
                   "children": [
                     {
                       "id": "6",
-                      "name": "Outer_1",
+                      "name": "Outer_1--C1",
                       "position": {"x": 0, "y": 0, "z": 0},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
@@ -213,7 +213,7 @@
                     },
                     {
                       "id": "7",
-                      "name": "Outer_2",
+                      "name": "Outer_2--C2",
                       "position": {"x": 0, "y": 0, "z": 0},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
@@ -265,7 +265,7 @@
                     },
                     {
                       "id": "8",
-                      "name": "Outer_3",
+                      "name": "Outer_3--C3",
                       "position": {"x": 0, "y": 0, "z": 0},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
@@ -307,7 +307,7 @@
                     },
                     {
                       "id": "9",
-                      "name": "Outer_4",
+                      "name": "Outer_4--C4",
                       "position": {"x": 0, "y": 0, "z": 0},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
@@ -352,7 +352,7 @@
                 {
                   "id": "10",
                   "name": "Light",
-                  "position": {"x": 3.12132, "y": -5.79288, "z": -8.7},
+                  "position": {"x": 1.5, "y": -5.79288, "z": -8.7},
                   "orientation": {"x": 0, "y": 0, "z": 0, "w": 1},
                   "shape": {
                     "type": "none",
@@ -370,7 +370,7 @@
                   "children": [
                     {
                       "id": "11",
-                      "name": "Light_Inner",
+                      "name": "Light_Inner--C1",
                       "position": {"x": 0, "y": 0, "z": -0.3},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
@@ -422,8 +422,8 @@
                     },
                     {
                       "id": "12",
-                      "name": "Light_Outer_1",
-                      "position": {"x": 0, "y": 0, "z": -0.6},
+                      "name": "Light_Outer_1--C2",
+                      "position": {"x": 0, "y": 0, "z": -0.3},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
                         "type": "box",
@@ -474,8 +474,8 @@
                     },
                     {
                       "id": "13",
-                      "name": "Light_Outer_2",
-                      "position": {"x": 0, "y": 0, "z": -0.6},
+                      "name": "Light_Outer_2--C3",
+                      "position": {"x": 0, "y": 0, "z": -0.3},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
                         "type": "box",
@@ -516,8 +516,8 @@
                     },
                     {
                       "id": "14",
-                      "name": "Light_Outer_3",
-                      "position": {"x": 0, "y": 0, "z": -0.6},
+                      "name": "Light_Outer_3--C4",
+                      "position": {"x": 0, "y": 0, "z": -0.3},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
                         "type": "box",
@@ -558,8 +558,8 @@
                     },
                     {
                       "id": "15",
-                      "name": "Light_Outer_4",
-                      "position": {"x": 0, "y": 0, "z": -0.6},
+                      "name": "Light_Outer_4--C5",
+                      "position": {"x": 0, "y": 0, "z": -0.3},
                       "orientation": {"x": 0, "y": 0, "z": -0.38268, "w": 0.92388},
                       "shape": {
                         "type": "box",
