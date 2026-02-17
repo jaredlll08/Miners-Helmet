@@ -1,7 +1,7 @@
 {
     "Group": "BlameJared",
     "Name": "MinersHelmet",
-    "Version": "1.0.0",
+    "Version": "1.0.1",
     "Description": "Adds a helmet which has a light attached to it!",
     "Authors": [
         {
@@ -10,7 +10,7 @@
         }
     ],
     "Website": "https://legacy.curseforge.com/hytale/mods/miners-helmet",
-    "ServerVersion": "*",
+    "ServerVersion": "2026.02.17-255364b8e",
     "Dependencies": {
         
     },
