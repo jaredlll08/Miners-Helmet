@@ -76,7 +76,7 @@
   },
   "Armor": {
     "ArmorSlot": "Head",
-    "BaseDamageResistance": 0.05,
+    "BaseDamageResistance": 0,
     "CosmeticsToHide": [
       "EarAccessory",
       "Ear",
@@ -86,14 +86,14 @@
     "DamageResistance": {
       "Physical": [
         {
-          "Amount": 0,
-          "CalculationType": "Additive"
+          "Amount": 0.05,
+          "CalculationType": "Percent"
         }
       ],
       "Projectile": [
         {
-          "Amount": 0,
-          "CalculationType": "Additive"
+          "Amount": 0.05,
+          "CalculationType": "Percent"
         }
       ]
     },
@@ -106,8 +106,8 @@
       ]
     }
   },
-  "MaxDurability": 120,
-  "DurabilityLossOnHit": 1,
+  "MaxDurability": 100,
+  "DurabilityLossOnHit": 0.5,
   "ResourceTypes": [
     {
       "Id": "Salvage_Iron"
